@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "tsc -p ./src",
+    "start": "yarn run build -- -w"
+  },
+  "dependencies": {
+    "@types/crypto-js": "^3.1.45",
+    "@types/sha256": "^0.2.0",
+    "crypto-js": "^4.0.0",
+    "sha256": "^0.2.0"
+  }
+}
