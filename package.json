@@ -6,7 +6,7 @@
   "dependencies": {
     "@types/crypto-js": "^3.1.45",
     "@types/sha256": "^0.2.0",
-    "crypto-js": "^4.0.0",
+    "crypto-js": "^4.2.0",
     "sha256": "^0.2.0"
   }
 }
